@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Pete
+
+I’m a digital product developer who most enjoys opportunities to collaborate with clients to build software that helps them do whatever they do better. Whether it’s helping choose and configure SaaS tools, building integrations between them, or designing and crafting custom apps, I’m most excited when I’m helping organizations solve their most important problems.
+
+I'm also open to contract and possibly full-time roles. I'm originally from the United States, but I currently reside in Veracruz, Mexico.
 
 <!--
 **petealbertson/petealbertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
